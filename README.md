@@ -1,4 +1,3 @@
-# DSA Lab Work
-3rd Semester
+# Lab Work
 Information Technology
 National Institute of Technology Karnataka
